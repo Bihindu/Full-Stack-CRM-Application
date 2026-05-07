@@ -120,7 +120,7 @@ The `backend/.env` file is included in the repository for easy local setup. Edit
 
 ```env
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/pipelinecrm
+MONGO_URI=mongodb+srv://<db_username>:<db_password>@cluster0.jc3w1kf.mongodb.net/?appName=Cluster0
 JWT_SECRET=crm-super-secret-key-change-in-production
 CLIENT_URL=http://localhost:3000
 NODE_ENV=development
