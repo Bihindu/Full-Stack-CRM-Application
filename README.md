@@ -328,13 +328,3 @@ I used React Context for authentication state rather than a third-party library 
 - Reminder scheduling — set a follow-up date on a lead and receive a notification when it is due
 
 ---
-
-## 📹 Demo Video
-
-[Add your Loom or YouTube link here before submitting]
-
----
-
-## 🔗 Deployed Application
-
-Not deployed. Run locally using the setup instructions above.
